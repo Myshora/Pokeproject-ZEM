@@ -24,6 +24,9 @@ git clone https://github.com/Myshora/Pokeproject-ZEM.git
 cd Pokeproject-ZEM
 ```
 
+Crea el archivo .env con una keyword secreta ejecutando el script start-env.bat
+
+
 2. Instala las dependencias:
 
 ```bash
