@@ -6,6 +6,8 @@ API construida en Symfony para consumir datos de [PokeAPI](https://pokeapi.co), 
 
 ## Requisitos
 
+- Git
+- 7-zip
 - PHP 8.1 o superior
 - Composer
 - XAMPP o cualquier servidor local compatible con PHP
